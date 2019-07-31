@@ -1,0 +1,8 @@
+.App {
+  min-height: calc(100vh - 128px);
+  background: #B0BEC5;  
+  box-sizing: border-box;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+

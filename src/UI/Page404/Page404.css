@@ -1,0 +1,49 @@
+.errorPage {
+  width: 70%;
+  margin: 0 auto;
+  background:gray;
+  border-radius: 3px;
+  position: relative;  
+  padding: 3px;
+}
+
+.errorPage_text {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.errorPage_h2 {
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.errorPage_404 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.homer {
+  max-width: 100%;
+  width: 100%;
+  display: block;
+}
+
+.buttonLink {
+  width: 200px;
+  height: 38px;
+  margin: 100px auto 0 auto;
+  background: #B0BEC5;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all .3s;
+}
+
+.buttonLink:hover {
+  background: rgb(168, 176, 180);
+}

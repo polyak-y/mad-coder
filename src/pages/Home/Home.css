@@ -1,0 +1,11 @@
+.home {
+  max-width: 1390px;
+  min-height: 200px;
+  margin: -15px auto 0 auto;
+}
+
+.mainSlider {
+  height: 500px;
+  border: 5px solid #455A64;
+  border-top: 0;
+}
